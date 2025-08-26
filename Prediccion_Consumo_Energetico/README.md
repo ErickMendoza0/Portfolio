@@ -30,20 +30,20 @@ Abrir `notebooks/01_eda.ipynb`, `02_modelos_clasicos.ipynb`, `03_lstm.ipynb`.
 ### Comparación de predicciones vs valores reales
 A continuación se muestra la serie temporal de consumo energético mensual junto con las predicciones de los modelos estadísticos y de IA.
 **ARIMA**
-![ARIMA 2014-2023](./resultados/figuras/arima_2014-2023.png)  
-![ARIMA 2014-2024](./resultados/figuras/arima_2014-2024.png)
+![ARIMA 2014-2023](./resultados/figuras/Arima_(2014-2023).png)  
+![ARIMA 2014-2024](./resultados/figuras/Arima_(2014-2024).png)
 
 **SARIMA**
-![SARIMA 2014-2023](./resultados/figuras/sarima_2014-2023.png)  
-![SARIMA 2014-2024](./resultados/figuras/sarima_2024.png)
+![SARIMA 2014-2023](./resultados/figuras/Sarima_(2014-2023).png)  
+![SARIMA 2014-2024](./resultados/figuras/sSarima_(2014-2024).png)
 
 **LSTM**
-![LSTM 2014-2023](./resultados/figuras/lstm_2014-2023.png)  
-![LSTM 2014-2024](./resultados/figuras/lstm_2024.png)
+![LSTM 2014-2023](./resultados/figuras/Lstm_(2014-2023).png)  
+![LSTM 2014-2024](./resultados/figuras/Lstm_(2014-2024).png)
 
 **BiLSTM**
-![BiLSTM 2014-2023](./resultados/figuras/bilstm_2014-2023.png)  
-![BiLSTM 2014-2024](./resultados/figuras/bilstm_2024.png)
+![BiLSTM 2014-2023](./resultados/figuras/Bilstm_(2014-2023).png)  
+![BiLSTM 2014-2024](./resultados/figuras/Bilstm_(2014-2024).png)
 
 ### Error por modelo
 Comparación de desempeño entre modelos clásicos (ARIMA, SARIMA) y redes neuronales (LSTM, BiLSTM).  
