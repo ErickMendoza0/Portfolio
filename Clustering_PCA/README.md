@@ -7,6 +7,23 @@
 - Reducción de dimensionalidad con **PCA**.
 - Selección de *k* por **Elbow** y **Silhouette**.
 
+## 📊 Resultados
+
+### PCA de Provincias
+Reducción de dimensionalidad a 2 componentes principales (PCA).
+
+![PCA Provincias](./figuras/PCA_Provincias.png)
+
+### Clusters de Provincias según Consumo
+Segmentación con **K-Means (k=3)** sobre los datos energéticos.
+
+![Clusters Provincias](./figuras/Cluster_Provincias.png)
+
+### Métricas de validación
+- **Coeficiente de Silhouette:** 0.40 → separación moderada entre clusters.
+
+
+
 ## ▶️ Cómo ejecutar
 ```bash
 pip install -r requirements.txt
