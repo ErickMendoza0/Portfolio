@@ -29,6 +29,7 @@ Abrir `notebooks/01_eda.ipynb`, `02_modelos_clasicos.ipynb`, `03_lstm.ipynb`.
 - LSTM superó a los modelos estadísticos.
 ### Comparación de predicciones vs valores reales
 A continuación se muestra la serie temporal de consumo energético mensual junto con las predicciones de los modelos estadísticos y de IA.
+<<<<<<< HEAD
 
 
 **ARIMA**
@@ -51,6 +52,7 @@ A continuación se muestra la serie temporal de consumo energético mensual junt
 ![BiLSTM 2014-2024](./resultados/figuras/BiLSTM_(2014-2024).png)
 
 
+
 ### Error por modelo
 Comparación de desempeño entre modelos clásicos (ARIMA, SARIMA) y redes neuronales (LSTM, BiLSTM).  
 El modelo LSTM logró el mejor resultado, demostrando mayor precisión y adaptabilidad.
@@ -63,6 +65,11 @@ El modelo LSTM logró el mejor resultado, demostrando mayor precisión y adaptab
 | BiLSTM   | 156        | 143       | 7.75     |
 
 ---
+
+### 📌 Conclusiones
+- Los modelos basados en **series temporales** (ARIMA y SARIMA) capturan patrones generales, pero muestran mayor error en periodos con alta variabilidad.
+- Los modelos **LSTM/BiLSTM** logran capturar dependencias de largo plazo, reduciendo el error promedio.  
+- En particular, **LSTM** obtuvo la menor tasa de error, lo que lo posiciona como el modelo más adecuado para este caso de estudio.
 
 
 
