@@ -29,21 +29,27 @@ Abrir `notebooks/01_eda.ipynb`, `02_modelos_clasicos.ipynb`, `03_lstm.ipynb`.
 - LSTM superó a los modelos estadísticos.
 ### Comparación de predicciones vs valores reales
 A continuación se muestra la serie temporal de consumo energético mensual junto con las predicciones de los modelos estadísticos y de IA.
+
+
 **ARIMA**
 ![ARIMA 2014-2023](./resultados/figuras/ARIMA_(2014-2023).png)  
 ![ARIMA 2014-2024](./resultados/figuras/ARIMA_(2014-2024).png)
+
 
 **SARIMA**
 ![SARIMA 2014-2023](./resultados/figuras/SARIMA_(2014-2023).png)  
 ![SARIMA 2014-2024](./resultados/figuras/SARIMA_(2014-2024).png)
 
+
 **LSTM**
 ![LSTM 2014-2023](./resultados/figuras/LSTM_(2014-2023).png)  
 ![LSTM 2014-2024](./resultados/figuras/LSTM_(2014-2024).png)
 
+
 **BiLSTM**
 ![BiLSTM 2014-2023](./resultados/figuras/BiLSTM_(2014-2023).png)  
 ![BiLSTM 2014-2024](./resultados/figuras/BiLSTM_(2014-2024).png)
+
 
 ### Error por modelo
 Comparación de desempeño entre modelos clásicos (ARIMA, SARIMA) y redes neuronales (LSTM, BiLSTM).  
