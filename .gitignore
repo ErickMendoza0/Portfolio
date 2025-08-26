@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Data
+data/
+*.csv
+*.parquet
+*.xlsx
