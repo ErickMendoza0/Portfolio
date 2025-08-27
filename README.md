@@ -17,14 +17,8 @@ Ingeniero en Inteligencia Artificial y Ciencia de Datos. Desarrollo modelos pred
 2. **Clustering & PCA de patrones de consumo** — Segmentación de clientes según comportamiento energético con **K-Means + PCA**.  
    👉 [`Clustering_PCA`](./Clustering_PCA)
 
-3. **Clasificación de Imágenes con CNN** — Transfer learning + data augmentation; *accuracy > 90%* en validación.  
-   👉 [`Clasificacion_Imagenes_CNN`](./Clasificacion_Imagenes_CNN)
-
-4. **Detección de Objetos con YOLOv5** — Caso aplicado a energía/transporte; entrenamiento, evaluación y ejemplos de inferencia.  
+3. **Detección de Objetos con YOLOv5** — Caso aplicado a energía/transporte; entrenamiento, evaluación y ejemplos de inferencia.  
    👉 [`YOLOv5_Deteccion_Objetos`](./YOLOv5_Deteccion_Objetos)
-
-5. **Integración IoT (Node-RED + ThingsBoard)** — Telemetría en tiempo real vía **MQTT/Cayenne LPP**, dashboards y reglas de negocio.  
-   👉 [`IoT_NodeRED_ThingsBoard`](./IoT_NodeRED_ThingsBoard)
 
 ---
 
@@ -38,7 +32,7 @@ Ingeniero en Inteligencia Artificial y Ciencia de Datos. Desarrollo modelos pred
 
 ---
 
-## 🚀 Cómo clonar y ejecutar (ejemplo genérico)
+## 🚀 Cómo clonar y ejecutar 
 
 ```bash
 # 1) Clonar
