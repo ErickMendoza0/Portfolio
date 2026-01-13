@@ -14,7 +14,7 @@ This project presents a comprehensive analysis of the electrical energy demand i
 * **Techniques:** Geospatial Mapping, Time-Series Analysis, Interactive Filtering, and Data Cleaning (Python).
 
 ## 🖼️ Dashboard Preview
-![Energy Dashboard](https://tu-link-de-la-imagen-del-dashboard.png)
+![Energy Dashboard](https://github.com/ErickMendoza0/Portfolio/blob/main/Ecuador-Energy-Dashboard/Dashboard%20EN.png?raw=true)
 *Figure 1: Interactive Dashboard showing Geospatial distribution, Market Share (Treemap), and Historical Evolution.*
 
 ## 🔗 Live Interaction
