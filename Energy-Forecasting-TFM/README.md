@@ -16,8 +16,22 @@ The study demonstrated that Deep Learning outperforms traditional methods in han
 * **Deep Learning:** Implemented a stacked LSTM architecture using TensorFlow/Keras.
 
 ## 📉 Key Visualization
-![Forecasting Comparison](https://tu-link-de-la-grafica-tfm.png)
-*Figure 1: Comparison of predicted values vs. actual demand, highlighting the LSTM's ability to capture seasonal peaks.*
+![Comparison of metrics 2023](https://github.com/ErickMendoza0/Portfolio/blob/main/Energy-Forecasting-TFM/Comparacion2023.png?raw=true
+)
+*Figure 1: Comparison of RMSE and MAE metrics in the 2023 forecast (Normal Conditions).*
+
+![Comparison of metrics 2024](https://github.com/ErickMendoza0/Portfolio/blob/main/Energy-Forecasting-TFM/Comparacion2024.png?raw=true)
+*Figure 2: Comparison of RMSE and MAE metrics in the 2024 prediction (Unfavorable conditions due to climatic phenomena)*
+
+![Forecasting Comparison 2023](https://github.com/ErickMendoza0/Portfolio/blob/main/Energy-Forecasting-TFM/Imagen22-LSTM_2023.png?raw=true
+)
+
+*Figure 3: Comparison of predicted values ​​vs. actual values ​​of the LSTM 2014-2023 model (Normal Conditions)*
+
+![Forecasting Comparison 2024](https://github.com/ErickMendoza0/Portfolio/blob/main/Energy-Forecasting-TFM/Imagen23-LSTM_2024.png?raw=true
+)
+
+*Figure 4: Comparison of predicted values ​​vs. actual values ​​of the LSTM 2014-2024 model (Unfavorable conditions due to climatic phenomena)*
 
 ## 📜 Thesis Document
 The full research paper is available in this repository for technical review.
