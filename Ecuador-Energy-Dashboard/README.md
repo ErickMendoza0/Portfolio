@@ -18,4 +18,4 @@ This project presents a comprehensive analysis of the electrical energy demand i
 *Figure 1: Interactive Dashboard showing Geospatial distribution, Market Share (Treemap), and Historical Evolution.*
 
 ## 🔗 Live Interaction
-[👉 Click here to interact with the Dashboard on Tableau Public](TU-LINK-DE-TABLEAU-PUBLIC-AQUI)
+[👉 Click here to interact with the Dashboard on Tableau Public](https://public.tableau.com/app/profile/erick.mendoza/viz/EnergyConsumptionEcuador2014-2024ConsumoEnergeticoEcuador2014-2024/DashboardEN#1)
