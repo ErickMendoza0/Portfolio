@@ -15,7 +15,8 @@ The model was trained using **Data Augmentation** to handle class imbalance.
 * **Key Finding:** The model excels at detecting "Snow-Covered" and "Dusty" panels but shows areas for improvement in "Physical Damage" due to limited data samples.
 
 ### Confusion Matrix
-![Confusion Matrix](Solar-Panel-Detection/ConfussionMatrix.png)
+![Confusion Matrix](https://github.com/ErickMendoza0/Portfolio/blob/main/Solar-Panel-Detection/ConfussionMatrix.png?raw=true)
+
 *Figure 1: Analysis of true vs. predicted labels showing high precision in environmental factors.*
 
 ## 🚀 Engineering Impact
