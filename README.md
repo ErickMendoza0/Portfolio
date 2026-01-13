@@ -1,63 +1,35 @@
-# Portafolio — Erick Mendoza Pico
+# Hi, I'm Erick Mendoza 👋 | Electrical Engineer & AI Specialist
 
-Ingeniero en Inteligencia Artificial y Ciencia de Datos. Desarrollo modelos predictivos, análisis de datos y soluciones de IA aplicadas a energía e industrias. Experiencia con **Python, SQL, scikit-learn, TensorFlow/Keras, Pandas, NumPy, matplotlib**, y flujos **IoT** (Node-RED, ThingsBoard, MQTT).
+I am an **Electrical Engineer** focused on the intersection of **Energy Systems** and **Artificial Intelligence**. My work centers on using Data Science and Deep Learning to optimize national power grids and implement predictive maintenance for renewable energy.
 
-- 📍 Manta, Ecuador  
-- 🔗 LinkedIn: https://www.linkedin.com/in/erick-manuel-mendoza-pico  
-- 💻 GitHub: https://github.com/ErickMendoza0  
-- ✉️ Contacto: erickmendoza-2000@hotmail.com
+## 🚀 Featured Projects
 
----
+### ⚡ [Electrical Demand Forecasting (Master's Thesis)](https://github.com/ErickMendoza0/Portfolio/tree/main/Energy-Forecasting-TFM)
+Comparative study between **ARIMA** and **LSTM** models to predict Ecuador's national energy consumption. 
+* *Outcome:* Proved that Deep Learning architectures (LSTM) significantly reduce forecasting error in non-linear demand scenarios.
 
-## 🎯 Proyectos Destacados
+### ☀️ [Solar Panel Fault Detection](https://github.com/ErickMendoza0/Portfolio/tree/main/Solar-Panel-Detection)
+Developed a CNN-based system (**MobileNetV2**) for real-time identification of 6 types of anomalies in photovoltaic modules.
+* *Focus:* Edge Computing for drone-based autonomous inspections.
 
-1. **Predicción de Consumo Energético en Ecuador** — ARIMA, SARIMA y LSTM y BiLST.
-   👉 [`Prediccion_Consumo_Energetico`](./Prediccion_Consumo_Energetico)
+### 📊 [Ecuador Energy Interactive Dashboard](https://github.com/ErickMendoza0/Portfolio/tree/main/Ecuador-Energy-Dashboard)
+Analysis of +600k records of national energy data (2014-2024) using **Tableau** and **Python**.
+* *Impact:* Interactive visualization of regional demand and sector-specific load distribution.
 
-2. **Clustering & PCA de patrones de consumo** — Segmentación de clientes según comportamiento energético con **K-Means + PCA**.  
-   👉 [`Clustering_PCA`](./Clustering_PCA)
+## 🛠️ Technical Skills
+* **Programming:** Python (Pandas, NumPy, Scikit-learn, TensorFlow, Keras).
+* **AI & Modeling:** CNN, LSTM, ARIMA, Random Forest, Time-Series Analysis.
+* **Energy Sector:** Power Grid Planning, Load Forecasting, Predictive Maintenance.
+* **BI & Data Viz:** Tableau, Power BI, Matplotlib, Seaborn.
 
-3. **Detección de Objetos con YOLOv5** — Caso aplicado a energía/transporte; entrenamiento, evaluación y ejemplos de inferencia.  
-   👉 [`YOLOv5_Deteccion_Objetos`](./YOLOv5_Deteccion_Objetos)
+## 📈 Engineering Impact
+My goal is to transition traditional energy infrastructures into **Smart Grids** by:
+1. **Reducing O&M costs** through computer vision.
+2. **Improving grid stability** with high-precision forecasting models.
+3. **Data-driven decision making** for national energy regulators.
 
----
-
-## 🧰 Tech Stack
-
-**Lenguajes**: Python, SQL, MATLAB  
-**ML/IA**: scikit-learn, TensorFlow/Keras, statsmodels  
-**Data**: Pandas, NumPy, matplotlib  
-**MLOps/Utilidades**: Jupyter, Git, virtualenv  
-**IoT**: Node-RED, ThingsBoard, MQTT, TTN
-
----
-
-## 🚀 Cómo clonar y ejecutar 
-
-```bash
-# 1) Clonar
-git clone https://github.com/ErickMendoza0/Portfolio
-cd Portfolio
-
-# 2) Crear entorno e instalar dependencias
-python -m venv .venv
-source .venv/bin/activate  # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
-
-# 3) Abrir notebooks
-jupyter lab  # o: jupyter notebook
-```
-
-> Cada carpeta de proyecto incluye su propio `README.md` con instrucciones específicas y, en su caso, un `requirements.txt` propio.
-
----
-
-## 📈 Resultados clave (resumen)
-
-- **Forecasting**: LSTM con MAPE ~8% en predicción mensual de consumo energético (2014–2024).  
-- **Visión**: CNN con *accuracy* >90% usando transfer learning y *data augmentation*.  
-- **Clustering**: PCA + K-Means para segmentación de clientes por patrones de consumo.  
-
----
+## 📫 Connect with me:
+* **LinkedIn:** [Erick Mendoza Pico](https://www.linkedin.com/in/erick-manuel-mendoza-pico)
+* **Tableu:** [Tableau Public Profile](https://public.tableau.com/app/profile/erick.mendoza/vizzes)
 
 
